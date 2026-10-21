@@ -1,8 +1,8 @@
 //Create a Personal Introduction Program
 //Write a Java program that displays:
-// //Your name
-//- Your age
-//- Your course
+//Your name
+// Your age
+// Your course
 
 public class main{
     public static void main(String[]args){
